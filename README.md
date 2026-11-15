@@ -26,6 +26,10 @@ By completing the lab, you will learn to:
 
 **Scope:** Azure Storage static website hosting. This lab does not use the separate **Azure Static Web Apps** service, a virtual machine, a database, or server-side application code.
 
+## Business Use Case
+
+A media company creates a one-day event page where vendors watch a live product showcase through an embedded streaming service, then removes the site after the event. The business value this solution provides is quick deployment of the static site with no web server to maintain.
+
 ## Architecture
 
 ```mermaid
