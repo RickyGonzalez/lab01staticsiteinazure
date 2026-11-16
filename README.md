@@ -9,8 +9,6 @@ Deploy a public static website using **Azure Blob Storage**, without provisionin
 | Deployment method | Azure Portal |
 | Services | Azure Resource Groups, Azure Storage, Blob Storage |
 
-> This README is a reproducible lab guide. Validation steps describe expected results; screenshots and a completed deployment are not included.
-
 ## 🎬 Watch Me Build This Lab!
 
 ## Overview
