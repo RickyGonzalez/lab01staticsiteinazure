@@ -11,6 +11,8 @@ Deploy a public static website using **Azure Blob Storage**, without provisionin
 
 ## 🎬 Watch Me Build This Lab!
 
+[![Deploy a Static Website on Azure Blob — Watch Video](https://www.loom.com/v1/videos/6416f66d893e45ff8983aa9166f99c4f/thumbnail.jpg)](https://www.loom.com/share/6416f66d893e45ff8983aa9166f99c4f)
+
 ## Overview
 
 This lab introduces managed cloud hosting: you create the website files, while Azure operates the underlying infrastructure. Azure Storage provides a managed storage service with a static website feature, enabling a serverless hosting approach for HTML, CSS, JavaScript, and images.
