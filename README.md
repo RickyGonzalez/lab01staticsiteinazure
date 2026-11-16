@@ -1,4 +1,4 @@
-# Lab 01: Hosting Your First Static Website in Azure
+# Lab 01: Hosting Static Website in Azure
 
 Deploy a public static website using **Azure Blob Storage**, without provisioning a virtual machine or maintaining a web server.
 
