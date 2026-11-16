@@ -28,7 +28,7 @@ By completing the lab, you will learn to:
 
 ## Business Use Case
 
-A media company creates a one-day event page where vendors watch a live product showcase through an embedded streaming service, then removes the site after the event. The business value this solution provides is quick deployment of the static site with no web server to maintain.
+A media company creates a one-day event page where vendors watch a live product showcase through an embedded streaming service, then removes the site after the event. The business value this solution provides is quick deployment of a static site with no web server to maintain.
 
 ## Architecture
 
