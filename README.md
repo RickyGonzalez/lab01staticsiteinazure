@@ -15,16 +15,7 @@ Deploy a public static website using **Azure Blob Storage**, without provisionin
 
 ## Overview
 
-This lab introduces managed cloud hosting: you create the website files, while Azure operates the underlying infrastructure. Azure Storage provides a managed storage service with a static website feature, enabling a serverless hosting approach for HTML, CSS, JavaScript, and images.
-
-By completing the lab, you will learn to:
-
-- Organize Azure resources in a dedicated resource group.
-- Create a storage account using a consistent naming convention.
-- Enable static website hosting and publish content to the `$web` container.
-- Verify the home page and a custom error page.
-- Distinguish anonymous website access from authenticated content management.
-- Remove lab resources when finished.
+This project introduces managed cloud hosting: you create the website files, while Azure operates the underlying infrastructure. Azure Storage provides a managed storage service with a static website feature, enabling a serverless hosting approach for HTML, CSS, JavaScript, and images.
 
 **Scope:** Azure Storage static website hosting. This lab does not use the separate **Azure Static Web Apps** service, a virtual machine, a database, or server-side application code.
 
